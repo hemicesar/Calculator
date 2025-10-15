@@ -7,7 +7,7 @@ coders:
 Starting date: October 14th
 Dead line (Version 0.3) = October 15th
 
-Requierements: 
+Requirements: 
     - To have a calculator using POO paradigm
     - [Version 0.1] Implement the four basic operations (add, substract, multiply, divide)
     - [Version 0.2] Implement power and root.
@@ -15,5 +15,5 @@ Requierements:
 
 Dead line (Version 0.5) = October 16th
 
-Requierementes: 
+Requirements: 
     - ....
