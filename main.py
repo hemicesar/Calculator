@@ -4,6 +4,7 @@
 # Date October 14th
 
 import fer
-import moy
+import suma from moy
+import multiplicacion from moy
 
 print("Hola, esta es la calculadora POO")
