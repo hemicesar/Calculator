@@ -3,6 +3,7 @@
 # Coders:  Fer and Moy
 # Date October 14th
 
+<<<<<<< HEAD
 from fer import Operator
 from moy import Operators
 
@@ -36,3 +37,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+import fer
+import suma from moy
+import multiplicacion from moy
+
+print("Hola, esta es la calculadora POO")
+>>>>>>> 0e5a87d26cf4861f97750903d914ec5788fa1f7c
