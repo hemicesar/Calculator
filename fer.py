@@ -6,6 +6,6 @@ class Operador:
         pass
     def resta(self,x,y):
         return x - y
-    def divicion (self, x,y):
+    def division (self, x,y):
         return x / y
        
