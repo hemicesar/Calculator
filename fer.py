@@ -1,6 +1,6 @@
 #Cambios y aportaciones de Fer
 #caluladora
- #Cambios y aportaciones de Fer
+#Cambios y aportaciones de Fer
 class Operador:
     def __init__(self):
         pass
