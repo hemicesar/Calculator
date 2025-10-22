@@ -2,7 +2,7 @@
 # Codificado en Python
 # Coders:  Fer and Moy
 # Date October 14th
-import math
+
 from fer import Operador
 from moy import Operators
 
